@@ -1,5 +1,9 @@
 Date created
+<<<<<<< HEAD
 July.26 2020
+=======
+august.01 2022
+>>>>>>> documentation
 
 Post your Work on GitHub
 Description
@@ -11,5 +15,9 @@ Files used
 The following file contains necessary commands used to do tasks:
 Git Commands Documentation.pdf
 Credits
+<<<<<<< HEAD
 Git documentation is very usefull.
 https://git-scm.com/doc
+=======
+Git documentation is very usefull.
+>>>>>>> documentation
